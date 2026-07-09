@@ -67,14 +67,39 @@ This project was completed as a graduation capstone project by a team of four en
 
 ### My Contributions
 
-- Mechanical design of selected machine components
-- Engineering calculations
-- MATLAB kinematic analysis
-- Material selection
-- Engineering documentation
-- Technical report preparation
+• Mechanical design and CAD modeling of selected machine components
+• MATLAB-based kinematic analysis of the link-drive mechanism
+• Engineering calculations and component sizing
+• Material selection
+• Technical documentation and report preparation
 
 ---
+
+---
+
+# 📷 Project Gallery
+
+## Complete Assembly
+
+![Assembly](Assembly.png)
+
+---
+
+## MATLAB Kinematic Analysis
+
+![MATLAB](Matlab Kinematic Analysis.png)
+
+---
+
+## ANSYS Gear Stress Analysis
+
+![Gear Stress](Gear Stress Analyis.png)
+
+---
+
+## Connecting Rod Plate Stress
+
+![Plate](Connecting Rode Plate Stress.png)
 
 ## 📄 Documentation
 
